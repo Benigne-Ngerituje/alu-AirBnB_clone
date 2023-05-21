@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Test of comment"""
+"""Test object saving """
 
 from models import storage
 from models.base_model import BaseModel
